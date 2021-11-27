@@ -21,6 +21,6 @@ const mat4 = [
 ]
 
 
-//console.log(matrixOperations.matrixProduct(mat1, mat3));
-//console.log(matrixOperations.sumOfMatrices(mat1, mat2));
+//matrixOperations.matrixProduct(mat1, mat4);
+//matrixOperations.sumOfMatrices(mat1, mat2);
 console.log(matrixOperations.sumOfEachRow(mat1));
